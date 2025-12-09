@@ -22,6 +22,10 @@
 
 ### **१. व्यक्तिगत जिल्ला JSON फाइल (`PxxDxx.json`) को ढाँचा:**
 
+
+## Simple API 
+https://raw.githubusercontent.com/skkdev0/Nepal-77-Districts-Local-Levels/refs/heads/main/all_districts.json
+
 ```json
 {
   "district_id": "P7D09",
