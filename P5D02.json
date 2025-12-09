@@ -142,4 +142,150 @@
       "local_level_type_en": "Rural Municipality",
       "local_level_name_ne": "रोहिणी",
       "local_level_name_en": "Rohini",
-      "wards
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 2, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 3, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 4, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 5, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 6, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"},
+        {"ward_no": 7, "ward_name_ne": "रोहिणी", "ward_name_en": "Rohini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ओमसतिया",
+      "local_level_name_en": "Omsatiya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"},
+        {"ward_no": 2, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"},
+        {"ward_no": 3, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"},
+        {"ward_no": 4, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"},
+        {"ward_no": 5, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"},
+        {"ward_no": 6, "ward_name_ne": "ओमसतिया", "ward_name_en": "Omsatiya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मायादेवी",
+      "local_level_name_en": "Mayadevi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 2, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 3, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 4, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 5, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 6, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 7, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"},
+        {"ward_no": 8, "ward_name_ne": "मायादेवी", "ward_name_en": "Mayadevi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कोटहीमाई",
+      "local_level_name_en": "Kotahimai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 2, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 3, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 4, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 5, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 6, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"},
+        {"ward_no": 7, "ward_name_ne": "कोटहीमाई", "ward_name_en": "Kotahimai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मर्चवारी",
+      "local_level_name_en": "Marchawari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 2, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 3, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 4, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 5, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 6, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"},
+        {"ward_no": 7, "ward_name_ne": "मर्चवारी", "ward_name_en": "Marchawari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुद्धोधन",
+      "local_level_name_en": "Suddhodhan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 2, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 3, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 4, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 5, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 6, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"},
+        {"ward_no": 7, "ward_name_ne": "सुद्धोधन", "ward_name_en": "Suddhodhan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सियारी",
+      "local_level_name_en": "Siyari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 2, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 3, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 4, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 5, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 6, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"},
+        {"ward_no": 7, "ward_name_ne": "सियारी", "ward_name_en": "Siyari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गैडहवा",
+      "local_level_name_en": "Gaidahawa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 2, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 3, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 4, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 5, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 6, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 7, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 8, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"},
+        {"ward_no": 9, "ward_name_ne": "गैडहवा", "ward_name_en": "Gaidahawa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कञ्चन",
+      "local_level_name_en": "Kanchan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कञ्चन", "ward_name_en": "Kanchan"},
+        {"ward_no": 2, "ward_name_ne": "कञ्चन", "ward_name_en": "Kanchan"},
+        {"ward_no": 3, "ward_name_ne": "कञ्चन", "ward_name_en": "Kanchan"},
+        {"ward_no": 4, "ward_name_ne": "कञ्चन", "ward_name_en": "Kanchan"},
+        {"ward_no": 5, "ward_name_ne": "कञ्चन", "ward_name_en": "Kanchan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रामारोशन",
+      "local_level_name_en": "Ramroshan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 2, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 3, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 4, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 5, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 6, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"},
+        {"ward_no": 7, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramroshan"}
+      ]
+    }
+  ]
+}
